@@ -1,0 +1,4 @@
+"Code","Name","Pop"
+"CA","California","39.4"
+"NV","Nevada","3.2"
+  
