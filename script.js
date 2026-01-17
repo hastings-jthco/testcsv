@@ -1,1 +1,1 @@
-function Alert(txt) { alert(txt); }
+function sayHello() { alert("Hi there") }
