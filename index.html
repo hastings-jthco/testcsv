@@ -1,7 +1,12 @@
 <!doctype HTML>
-<body>
- <script src='script.js'> </script>
+<html>
+ <head>
+   <script src='script.js'> </script>
+ </head>
+ <body>
   Hello World.
-  <p><button onclick="Alert('data.csv')">Tell me</button>
-  <br><embed src='data.csv' type="text/plain">
-</body>
+  <button onClick="sayHello()">Say Hello</button>
+  <p><button onclick="window.open('data.csv')">Download</button>
+  <br><embed src='data.csv.txt' type="text/plain">
+ </body>
+</html>
